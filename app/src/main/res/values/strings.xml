@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FifaIsLife</string>
+    <string name="nextMatchButton">Next match</string>
+    <string name="players">Players</string>
+    <string name="loses">Loses</string>
+    <string name="wins">Wins</string>
+    <string name="player">Player</string>
+    <string name="vs">Vs.</string>
+    <string name="type_name_here">Type name here</string>
+</resources>
